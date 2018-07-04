@@ -1,0 +1,16 @@
+•3 years of experience in Automation and Manual Testing using Selenium, Jenkins.
+•Have hands on experience and knowledge on Core Java.
+•Thorough hands on experience with all the levels of testing including Sanity, Usability, Functional, Integration, Regression, Re-testing, User Acceptance and System Testing.
+•Have hands on experience and good knowledge in Selenium Automation Tool with IDE, RC and Web driver.
+•Experience on Test NG Reporting.
+•Have hands on experience in developing the test automation scripts using Selenium Web Driver.
+•Good experience in interacting with product manager, developers, customer support and help them in base line the requirement specifications.
+•Experience in end-to-end automation development and testing of web based applications. 
+•Knowledge on Bug reporting & Tracking process, Bug Reporting and tracking using Bug tracking tools like QC and Mantis. 
+•Knowledge on SQL/PL SQL.
+
+
+
+
+
+
